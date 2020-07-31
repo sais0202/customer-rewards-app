@@ -1,0 +1,13 @@
+.viewSize {
+  Maygin-left: auto;
+  Maygin-right: auto;
+  width: 70%;
+  background-color:lightcoral;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .viewSize {
+    width: 95%;
+  }
+}
